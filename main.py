@@ -7,7 +7,7 @@ import requests
 from PIL import Image
 
 
-toponym_to_find = "москва"
+toponym_to_find = "австралия"
 
 geocoder_api_server = "http://geocode-maps.yandex.ru/1.x/"
 
